@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Mouhamadou Fadel DIOP
+#### Bioinformatician
 
-<!--
-**mfdiop/mfdiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bioinformatician](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm Fadel from Senegal. I'm a bioinformatician in the Medical Research Council (MRC) Unit, The Gambia at LSHTM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfdiop)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: R / Bash / Python / C / Java
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
