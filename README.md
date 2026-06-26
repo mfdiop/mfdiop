@@ -2,11 +2,12 @@
 
 <!-- Replace this banner with your custom banner -->
 
-<img src="images/banner.png" width="100%">
-
+<!-- <img src="images/banner.png" width="100%"> -->
+<!-- <img src="https://github.com/mfdiop/mfdiop/blob/main/banner.jpeg?raw=true" width="100%"> -->
 <br>
 
-<img src="images/profile.png" width="180" style="border-radius:50%">
+<!-- <img src="images/profile.png" width="180" style="border-radius:50%"> -->
+<img src="https://github.com/mfdiop/mfdiop/blob/main/photo_ID.png?raw=true"  width="180" style="border-radius:50%">
 
 # Mouhamadou Fadel DIOP
 
@@ -93,7 +94,6 @@ My work is driven by questions such as:
 * Can genomic data identify who infected whom?
 * How much malaria transmission is sustained locally versus repeatedly imported?
 * Can pathogen movement be reconstructed using whole-genome sequencing?
-* How can AI improve genomic surveillance?
 * How can mathematical models and genomics be integrated for transmission inference?
 * How can genomic evidence better support disease elimination programmes?
 
@@ -191,15 +191,15 @@ Nextflow • Snakemake
 
 ## Data Science
 
-R • Python • tidyverse • pandas • NumPy • ggplot2 • data.table • Shiny • igraph • sf • matplotlib • NetworkX • scikit-learn
+R • Python • tidyverse • pandas • ggplot2 • data.table • Shiny • igraph • sf • NumPy • matplotlib • NetworkX • scikit-learn
 
 ---
 
 # 🧬 Research Domains
 
-✔ Computational Genomics
-
 ✔ Bioinformatics
+
+✔ Computational Genomics
 
 ✔ Infectious Disease Genomics
 
@@ -209,13 +209,11 @@ R • Python • tidyverse • pandas • NumPy • ggplot2 • data.table • S
 
 ✔ Genomic Epidemiology
 
-✔ AI in Genomics
-
-✔ Machine Learning
-
 ✔ Drug Resistance
 
 ✔ Genomic Surveillance
+
+✔ Machine Learning
 
 ---
 
@@ -234,9 +232,6 @@ Transmission Dynamics
 Bayesian Transmission Models
         │
         ▼
-AI-assisted Genomic Epidemiology
-        │
-        ▼
 Real-time Genomic Surveillance
 ```
 
@@ -244,7 +239,7 @@ Real-time Genomic Surveillance
 
 # 📚 Publications
 
-> Coming soon…
+> Check out my Google Scholar, ORCID or ResearchGate links
 
 Peer-reviewed publications, conference abstracts, software papers, and preprints will be listed here.
 
@@ -266,20 +261,21 @@ Peer-reviewed publications, conference abstracts, software papers, and preprints
 * Bayesian inference
 * Advanced machine learning
 * Graph neural networks
-* AI for genomics
 * Transmission network modelling
 * High-performance computing
+* * AI for genomics
 
 ---
 
 # 🤝 Open to Collaborate On
 
 * Population genomics
+* Selection analysis
 * Infectious disease genomics
 * Bioinformatics software
 * Mathematical modelling
 * Transmission dynamics
-* AI applications in genomics
+* Workshops / Trainings
 
 ---
 
@@ -360,13 +356,13 @@ Outside the lab, I enjoy
 
 📧 [lshmd19@lshtm.ac.uk](mailto:lshmd19@lshtm.ac.uk)
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/fadel-diop/)
 
-🎓 Google Scholar
+🎓 [Google Scholar](https://scholar.google.com/citations?hl=fr&authuser=1&user=vxpoSQIAAAAJ)
 
-🧬 ORCID
+🧬 [ORCID](https://orcid.org/0000-0002-6569-6497)
 
-🐙 GitHub
+🐙 [GitHub](https://github.com/mfdiop)
 
 ---
 
@@ -378,22 +374,8 @@ Outside the lab, I enjoy
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋, Mouhamadou Fadel DIOP
-#### Bioinformatician
-
 <!-- ![Bioinformatician](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) --->
 
-I'm Fadel from Senegal. I'm a bioinformatician at the Medical Research Council (MRC) Unit, The Gambia at LSHTM.
 
 
 
