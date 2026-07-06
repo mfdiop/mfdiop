@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar">
 </a>
 
-<a href="[https://orcid.org/](https://orcid.org/0000-0002-6569-6497)">
+<a href="https://orcid.org/0000-0002-6569-6497">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid">
 </a>
 
