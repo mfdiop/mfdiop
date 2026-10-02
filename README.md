@@ -49,7 +49,7 @@
 
 # 👋 About Me
 
-I am a **PhD Candidate in Bioinformatics** at the **Medical Research Council Unit The Gambia at LSHTM**, where I develop computational approaches to understand how infectious diseases spread using **whole-genome sequencing, population genomics, epidemiology, and mathematical modelling**.
+I am a **final-year PhD Candidate in Bioinformatics** at the **Medical Research Council Unit The Gambia at LSHTM**, where I develop computational approaches to understand how infectious diseases spread using **whole-genome sequencing, population genomics, epidemiology, and mathematical modelling**.
 
 My research focuses on reconstructing pathogen transmission networks from genomic data and translating genomic evidence into insights that support infectious disease surveillance and elimination programmes.
 
